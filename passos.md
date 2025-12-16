@@ -78,7 +78,7 @@ const app = express();
 
 app.use(express.json());
 
-// rota teste (opcional)
+// rota teste
 app.get('/', (req, res) => {
   res.send('API de Alunos e Cursos rodando');
 });
