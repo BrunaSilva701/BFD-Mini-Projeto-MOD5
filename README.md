@@ -52,9 +52,6 @@
 +--------+----------------------+-----------------------------+
 ````
 
-## ROTA BÁSICA
-![](./img/rota-basica.png)
-
 ## TESTES
 ### Criação de aluno
 ![](./img/criaAluno.png)
