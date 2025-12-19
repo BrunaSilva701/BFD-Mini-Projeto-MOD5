@@ -16,7 +16,7 @@ app.use('/matricula', matriculaRoutes);
 
 // rota teste 
 app.get('/', (req, res) => {
-  res.send('API de Alunos e Cursos rodando');
+  res.send('API rodando');
 });
 
 const PORT = 3000;
