@@ -30,6 +30,8 @@
 ````
 
 ### 6. Cria os models
+- ESTRUTURA: npx sequelize-cli model:generate --name X --attributes campo:tipo,campo:tipo
+
 - Aluno: ```npx sequelize-cli model:generate --name Aluno --attributes nome:string,email:string```
 
   -> Nome e email obrigatorios
